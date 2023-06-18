@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashish Singh.
 - 👀 I’m interested in learning new technology.
-- 🏢 Working as Full Stack Developer.
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🏢 Learning to be MERN Full Stack Developer.
+- 🌱 I’m currently learning MERN Stack.
 - 📫 How to reach me - singh.ashish041@gmail.com.
 
 <!---
