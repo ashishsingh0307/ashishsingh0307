@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashish Singh.
 - 👀 I’m interested in learning new technology.
 - 🏢 Working as PHP Developer.
-- 🌱 I’m currently learning MERN Stack.
+- 🌱 I’m currently learning DSA and MERN Stack.
 - 📫 How to reach me - singh.ashish041@gmail.com.
 
 <!---
