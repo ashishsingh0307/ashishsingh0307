@@ -83,8 +83,8 @@ A complete cricket academy management system with admin dashboard, student manag
 ## 🤝 Connect With Me
 
 * 📧 Email: **[singh.ashish041@gmail.com](mailto:singh.ashish041@gmail.com)**
-* 💼 LinkedIn: *(Add your LinkedIn URL here)*
-* 🌐 Portfolio: *(Add your portfolio URL here)*
+* 💼 LinkedIn: *https://www.linkedin.com/in/ashishsingh030795/*
+* 🌐 Portfolio: *https://www.ashish-singh.com/*
 
 ---
 
